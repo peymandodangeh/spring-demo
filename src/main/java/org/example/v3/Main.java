@@ -1,6 +1,6 @@
-package org.example.config;
+package org.example.v3;
 
-import org.example.v2.NotificationService;
+
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {
